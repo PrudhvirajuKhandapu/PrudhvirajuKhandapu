@@ -4,8 +4,4 @@ A DevOps Engineer, passionate about building scalable systems, automating workfl
 
 I learn something new every day, document it, and share it to help others grow.
 
-Learning in public. Building consistently. Improving every day.  
-
-Tools and Languages:
-
-Kubernetes | Docker | GitLab CI/CD | Terraform | Prometheus | Grafana | Nginx
+Learning in public. Building consistently. Improving every day.
